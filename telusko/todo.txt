@@ -1,7 +1,9 @@
 Done:-
 1. introduction [x]
+2. Variables [x]
 
 
 
 Todo:
-2. Variables
+Array concepts
+3. List -> 36:44 []
