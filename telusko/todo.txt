@@ -2,9 +2,10 @@ Done:-
 1. introduction [x]
 2. Variables [x]
 3. List -> 36:44 [x]
+4. List methods -> 43:02 [x]
 
 
 
 Todo:
 Array concepts
-3. List methods-> 43:02 []
+5. Tuple -> 47:00 []
