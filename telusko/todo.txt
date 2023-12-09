@@ -4,9 +4,10 @@ Done:-
 3. List -> 36:44 [x]
 4. List methods -> 43:02 [x]
 5. Tuple -> 47:00 [x]
+6. set -> 50:44 [x]
 
 
 
 Todo:
 Array concepts
-6. set -> 50:44 []
+7. More on Variables[Variables location] -> 59:00 []
