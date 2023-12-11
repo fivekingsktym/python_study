@@ -5,9 +5,9 @@ Done:-
 4. List methods -> 43:02 [x]
 5. Tuple -> 47:00 [x]
 6. set -> 50:44 [x]
+7. More on Variables[Variables location] -> 59:00 [x]
 
 
 
 Todo:
-Array concepts
-7. More on Variables[Variables location] -> 59:00 []
+Data types in python 1:07:36 []
