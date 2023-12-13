@@ -7,8 +7,8 @@ Done:-
 6. set -> 50:44 [x]
 7. More on Variables[Variables location] -> 59:00 [x]
 8. Data types in python [None, Numeric] 1:07:36 [x]
-
+8.1 Data types in python [list, tuple, set, string, range, dictionary] 1:14:08 [x]
 
 
 Todo:
-8.1 Data types in python [list, tuple, set, string, range, dictionary] 1:14:08 []
+9. Operators in python 1:21:40 []
