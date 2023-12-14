@@ -8,7 +8,8 @@ Done:-
 7. More on Variables[Variables location] -> 59:00 [x]
 8. Data types in python [None, Numeric] 1:07:36 [x]
 8.1 Data types in python [list, tuple, set, string, range, dictionary] 1:14:08 [x]
+9. Operators in python 1:21:40 [x]
 
 
 Todo:
-9. Operators in python 1:21:40 []
+9.1 Operators in python [unary operator, relational operator] 1:25:36 []
