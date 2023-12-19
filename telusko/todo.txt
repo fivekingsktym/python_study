@@ -11,7 +11,8 @@ Done:-
 9. Operators in python [Arithmetic, Assignment] 1:21:40 [x]
 9.1 Operators in python [relational, logical, unary operator ] 1:25:36 [x]
 10. Number system conversion in python 1:32:20 [x]
+11. Bitwise operator in python 1:43:08 [X]
 
 
 Todo:
-11. Bitwise operator in python 1:43:08 []
+12. Math function in python 1:56:26 []
