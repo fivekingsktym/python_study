@@ -13,7 +13,8 @@ Done:-
 10. Number system conversion in python 1:32:20 [x]
 11. Bitwise operator in python 1:43:08 [X]
 12. Math function in python 1:56:26 [x]
+13. user input, system_argv in python 2:12:37 [x]
 
 
 Todo:
-13. user input in python 2:12:37 []
+14. if, elif, else statement in python 2:23:54 []
