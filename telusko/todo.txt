@@ -14,7 +14,9 @@ Done:-
 11. Bitwise operator in python 1:43:08 [X]
 12. Math function in python 1:56:26 [x]
 13. user input, system_argv in python 2:12:37 [x]
+14. if, elif, else statement in python 2:23:54 [x]
+15. loop statements in python 2:50:11 (While loop) [x]
 
 
 Todo:
-14. if, elif, else statement in python 2:23:54 []
+16. loop statements in python 2:52:11 (for loop) []
