@@ -16,7 +16,8 @@ Done:-
 13. user input, system_argv in python 2:12:37 [x]
 14. if, elif, else statement in python 2:23:54 [x]
 15. loop statements in python 2:50:11 (While loop) [x]
+16. loop statements in python 2:52:11 (for loop) [x]
 
 
 Todo:
-16. loop statements in python 2:52:11 (for loop) []
+17. break, continue, pass - 2:58:12 []
