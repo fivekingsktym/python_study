@@ -18,7 +18,8 @@ Done:-
 15. loop statements in python 2:50:11 (While loop) [x]
 16. loop statements in python 2:52:11 (for loop) [x]
 17. break, continue, pass - 2:58:12 [x]
+18. Patterns in python 3:07:54 [x]
 
 
 Todo:
-18. Patterns in python 3:07:54 []
+19. OOPS in python 3:15:30 []
