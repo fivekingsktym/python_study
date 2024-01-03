@@ -21,7 +21,8 @@ Done:-
 18. Patterns in python 3:07:54 [x]
 19. OOPS in python 3:15:30 [x]
 20. class instance(__init__) Variables and class Variables 3:50:13 [x]
+21. class - types of  methods (instance, class, static) 3:55:27 [x]
 
 
 Todo:
-21. class - types of  methods (instance, class, static) 3:55:27 []
+22. Inner class in python 4:06:46 []
