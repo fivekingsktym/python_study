@@ -23,7 +23,8 @@ Done:-
 20. class instance(__init__) Variables and class Variables 3:50:13 [x]
 21. class - types of  methods (instance, class, static) 3:55:27 [x]
 22. Inner class in python 4:06:46 [x]
+23. Inheritance in python 4:13:50 [x]
 
 
 Todo:
-23. Inheritance in python 4:13:50 []
+24. Polymorphism in python 4:28:41 []
