@@ -25,7 +25,8 @@ Done:-
 22. Inner class in python 4:06:46 [x]
 23. Inheritance in python 4:13:50 [x]
 24. Polymorphism - Duck typing 4:28:41 [x]
+25. Polymorphism - operator overloading 4:36:16 [x]
 
 
 Todo:
-25. Polymorphism - operator overloading 4:36:16 [x]
+26. Polymorphism - Method overloading and overriding 4:50:37 []
