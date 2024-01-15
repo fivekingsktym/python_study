@@ -33,4 +33,4 @@ Done:-
 
 
 Todo:
-30. comments in python 5:31:05 []
+30. comments in python 5:31:05 [x]
