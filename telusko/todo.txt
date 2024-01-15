@@ -29,7 +29,8 @@ Done:-
 26. Polymorphism - Method overloading and overriding 4:50:37 [x]
 27. Exception Handling in python 5:00:52 [x]
 28. Multi-threading in python 5:16:34 [x]
+29. File Handling in python 5:31:05 [x]
 
 
 Todo:
-29. File Handling in python 5:31:05 []
+30. comments in python 5:31:05 []
