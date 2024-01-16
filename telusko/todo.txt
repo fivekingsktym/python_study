@@ -32,7 +32,8 @@ Done:-
 29. File Handling in python 5:31:05 [x]
 30. comments in python 5:31:05 [x]
 31. Is python is "Complied" or "Interpreted" language 5:46:52 [x]
+32. Linear Search in python 5:53:15 [x]
 
 
 Todo:
-32. Linear Search in python 5:53:15 []
+33. Binary Search in python 6:00:25 []
