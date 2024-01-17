@@ -33,7 +33,8 @@ Done:-
 30. comments in python 5:31:05 [x]
 31. Is python is "Complied" or "Interpreted" language 5:46:52 [x]
 32. Linear Search in python 5:53:15 [x]
+33. Binary Search in python 6:00:25 [x]
 
 
 Todo:
-33. Binary Search in python 6:00:25 []
+34. Bubble Sort in python 6:09:31 []
